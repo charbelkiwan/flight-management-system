@@ -1,0 +1,2 @@
+PY1 1F B 2023-08-30 08:00 UK 2023-08-31 01:00 Germany special-meal 300
+QR1 11B E 2023-08-18 09:00 Beirut 2023-08-18 11:00 USA special_meal 600

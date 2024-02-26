@@ -1,0 +1,3 @@
+ML4  2D  E  elie  kiwan   2023-08-18   09:00  Beirut   2023-08-18   10:00  Russia  special-meal  500
+ML4  9G  E  charbel  kiwan   2023-08-18   09:00  Beirut   2023-08-18   10:00  Russia  special-meal  500
+AT2  3B  B  charbel  kiwan   2023-08-26   09:00  Beirut   2023-08-27   11:00  USA  special-meal  800
